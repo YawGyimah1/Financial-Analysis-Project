@@ -13,7 +13,7 @@ It explores trends, top products and and profit margin using an interactive dash
 - How to visualize insights in Power BI
 
 ## Preview
-Dashboard Scrrenshot (https://github.com/YawGyimah1/Financial-Analysis-Project/commit/7eb9577b0d2b077eccc8dabfbab4c4fdcef82581)
+[Dashboard Scrrenshot](https://github.com/YawGyimah1/Financial-Analysis-Project/commit/7eb9577b0d2b077eccc8dabfbab4c4fdcef82581)
 
 > Click on the image above to see a preview of the final dashboard
 # Financial Analysis Project
